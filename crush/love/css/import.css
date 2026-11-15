@@ -1,8 +1,11 @@
 @import url('#');
 
-@root{color: whitesmkoe;bg-color:dark}
+:root {
+  --color: whitesmoke;
+  --bg-color: #222;
+}
 
-body{
-color:var(--color);
-background-color:var(--bg-color);
+body {
+  color: var(--color);
+  background-color: var(--bg-color);
 }
