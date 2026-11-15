@@ -1,1 +1,8 @@
 @import url('#');
+
+@root{color: whitesmkoe;bg-color:dark}
+
+body{
+color:var(--color);
+background-color:var(--bg-color);
+}
