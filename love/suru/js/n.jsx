@@ -1,1 +1,1 @@
-import{SignupApp}from"./p.js";document.addEventListener("DOMContentLoaded",()=>{new SignupApp(document)});
+import{SignupApp}from"p.js";document.addEventListener("DOMContentLoaded",()=>{new SignupApp(document)});
